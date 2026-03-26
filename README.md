@@ -181,9 +181,9 @@ GET /api/notifications
 ---
 
 ## 👥 Developers
+👨‍💻 **Pranav P Aradhya**
 👨‍💻 **Dilip Das M Nayaka**  
 👨‍💻 **Akshobya A S**
-
 ---
 
 ## ⭐ Support the Project
